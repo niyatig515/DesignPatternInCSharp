@@ -1,0 +1,14 @@
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\SQLQueryGeneratorUsingBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\SQLQueryGeneratorUsingBuilder.AssemblyInfoInputs.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\SQLQueryGeneratorUsingBuilder.AssemblyInfo.cs
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\SQLQueryGeneratorUsingBuilder.csproj.CoreCompileInputs.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\SQLQueryGeneratorUsingBuilder.exe
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\SQLQueryGeneratorUsingBuilder.deps.json
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\SQLQueryGeneratorUsingBuilder.runtimeconfig.json
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\SQLQueryGeneratorUsingBuilder.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\SQLQueryGeneratorUsingBuilder.pdb
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\SQLQueryGeneratorUsingBuilder.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\refint\SQLQueryGeneratorUsingBuilder.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\SQLQueryGeneratorUsingBuilder.pdb
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\SQLQueryGeneratorUsingBuilder.genruntimeconfig.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\ref\SQLQueryGeneratorUsingBuilder.dll

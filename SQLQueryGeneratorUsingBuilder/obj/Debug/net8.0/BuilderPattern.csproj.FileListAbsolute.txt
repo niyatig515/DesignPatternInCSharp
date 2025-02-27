@@ -1,0 +1,14 @@
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\BuilderPattern.exe
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\BuilderPattern.deps.json
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\BuilderPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\bin\Debug\net8.0\BuilderPattern.pdb
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\BuilderPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\refint\BuilderPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\BuilderPattern.pdb
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\SQLQueryGeneratorUsingBuilder\obj\Debug\net8.0\ref\BuilderPattern.dll

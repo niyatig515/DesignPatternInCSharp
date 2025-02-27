@@ -1,0 +1,14 @@
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\bin\Debug\net8.0\Epam.DesignPattern.exe
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\bin\Debug\net8.0\Epam.DesignPattern.deps.json
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\bin\Debug\net8.0\Epam.DesignPattern.runtimeconfig.json
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\bin\Debug\net8.0\Epam.DesignPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\bin\Debug\net8.0\Epam.DesignPattern.pdb
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\Epam.DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\Epam.DesignPattern.AssemblyInfoInputs.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\Epam.DesignPattern.AssemblyInfo.cs
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\Epam.DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\Epam.DesignPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\refint\Epam.DesignPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\Epam.DesignPattern.pdb
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\Epam.DesignPattern.genruntimeconfig.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\Epam.DesignPattern\obj\Debug\net8.0\ref\Epam.DesignPattern.dll

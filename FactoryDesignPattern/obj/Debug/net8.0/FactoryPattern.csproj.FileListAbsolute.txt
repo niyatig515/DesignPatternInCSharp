@@ -1,0 +1,14 @@
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryPattern.exe
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryPattern.deps.json
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryPattern.runtimeconfig.json
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryPattern.pdb
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryPattern.pdb
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\niyati_gupta\source\repos\Epam.DesignPattern\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryPattern.dll
